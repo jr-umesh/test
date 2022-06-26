@@ -7,6 +7,8 @@
         "minLength": 3,
         "maxLength": 11
     },
+    //some changes to change
+    
     "storageSKU": {
         "type": "string",
         "defaultValue":"Standard_LRS",
