@@ -7,6 +7,9 @@
         "minLength": 3,
         "maxLength": 11
     },
+    //some changes to see PR creation
+    
+    
     "storageSKU": {
         "type": "string",
         "defaultValue":"Standard_LRS",
